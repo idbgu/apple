@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://www.518gowu.com/Download/icon/Icon512.jpg</string>  
+                    <string>https://raw.githubusercontent.com/idbgu/apple/master/Icon512.jpg</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>http://www.518gowu.com/Download/icon/Icon57.jpg</string>  
+                    <string>https://raw.githubusercontent.com/idbgu/apple/master/Icon57.jpg</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
